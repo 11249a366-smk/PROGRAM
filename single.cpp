@@ -19,7 +19,8 @@ public:
 
 int main() {
     Dog dog1;
-    dog1.eat();   // Inherited from Animal
-    dog1.bark();  // Defined in Dog
+    dog1.eat();   
+    dog1.bark();  
     return 0;
 }
+
